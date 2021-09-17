@@ -1,4 +1,4 @@
-#! /usr/bin/gawk -f
+#! /usr/bin/env -S gawk -f
 
 # A gawk script to convert modified LaTeX math-mode code to Geogebra code.
 #
