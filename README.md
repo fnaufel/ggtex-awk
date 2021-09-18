@@ -163,7 +163,7 @@ language](https://www.gnu.org/software/gawk/) installed to run
 -   Here is a more complex example:
 
     ``` latex
-    \fbox{
+    \boxed{
       \textbf{Completing the square:}\\
       \\
       \begin{aligned}

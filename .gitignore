@@ -3,3 +3,8 @@
 .RData
 .Ruserdata
 *.Rproj
+/examples/_region_.tex
+/examples/auto/
+*.aux
+/examples/example.pdf
+*.fmt

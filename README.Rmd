@@ -144,7 +144,7 @@ You need to have the [GNU awk (`gawk`) language](https://www.gnu.org/software/ga
 * Here is a more complex example:
 
   ```LaTeX
-  \fbox{
+  \boxed{
     \textbf{Completing the square:}\\
     \\
     \begin{aligned}
